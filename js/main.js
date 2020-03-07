@@ -231,3 +231,8 @@ $(document).ready(function($) {
 
 });
 
+
+$(document).ready(function(){
+	$("#videoModal").modal("show");
+});
+   
